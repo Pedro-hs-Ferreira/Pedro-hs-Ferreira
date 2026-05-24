@@ -38,7 +38,7 @@ My goal is to continuously improve through hands-on projects and real-world prac
 | Project               | Description                                 |
 | --------------------- | ------------------------------------------- |
 | Python Studies        | Python learning projects and exercises      |
-| JavaScript Basics     | JavaScript practice projects                |
+| [JavaScript Basics] (https://github.com/Pedro-hs-Ferreira/Projetos/tree/main/JavaScript)| JavaScript practice projects                |
 
 
 ---
@@ -61,7 +61,7 @@ This profile documents my learning journey, projects, and progress as I grow in 
 # 🌎 Connect With Me
 
 * GitHub: https://github.com/Pedro-hs-Ferreira
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn:
 
 ---
 
