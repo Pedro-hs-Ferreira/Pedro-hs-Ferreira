@@ -38,7 +38,7 @@ My goal is to continuously improve through hands-on projects and real-world prac
 | Project               | Description                                 |
 | --------------------- | ------------------------------------------- |
 | Python Studies        | Python learning projects and exercises      |
-| [JavaScript Basics] (https://github.com/Pedro-hs-Ferreira/Projetos/tree/main/JavaScript)| JavaScript practice projects                |
+| [JavaScript Basics](https://github.com/Pedro-hs-Ferreira/Projetos/tree/main/JavaScript)| JavaScript practice projects                |
 
 
 ---
